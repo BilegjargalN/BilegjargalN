@@ -17,7 +17,7 @@
 - [CBZ Web Comic Reader](https://github.com/BilegjargalN/cbz-reader)  
   *Lightweight browser-based reader for comic book ZIP files; pure JS/HTML/CSS.*
 
-*(More projects in my repositories!)*
+*(More projects upcoming in my repositories!)*
 
 ## Quick Skills
 
