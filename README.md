@@ -7,7 +7,7 @@
 - 💻 Passionate about web development, especially frontend (React, JavaScript, HTML/CSS, PHP).
 - 🤖 Currently building an **AI-powered visual novel chatbot** web app and exploring modern AI APIs (DeepSeek, OpenAI, Gemini).
 - 🛠️ Comfortable with WAMP, MySQL, and hands-on with database/web integration.
-- 🌱 Always learning—recently focused on full-stack development, cloud tech, and workflow automation.
+- 🌱 Always learning, recently focused on full-stack development, cloud tech, and workflow automation.
 
 ## Projects
 
